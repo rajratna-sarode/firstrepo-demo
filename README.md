@@ -1,4 +1,5 @@
 # firstrepo-demo
 This is my first git repository
 <br>
-Author - Rajratna sarode
+Author - Rajratna (dyp student)
+
